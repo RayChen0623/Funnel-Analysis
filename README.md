@@ -5,7 +5,7 @@ This analysis invesitgated the steps in e-commerice website (data source: https:
 
 The steps required to make a purchase on our site are: home page, search page, payment page and confirmation. These steps are sometimes also called goals or micro conversions.
 
-![alt text](https://github.com/RayChen0623/Funnel-Analysis/blob/main/funnel_plot.png)
+![alt text](https://github.com/RayChen0623/Funnel-Analysis/blob/main/plot.png)
 
 
 ## Tech Stack
